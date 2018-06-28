@@ -1,0 +1,28 @@
+{
+  "name": "ball",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "purescript-prelude": "^4.0.1",
+    "purescript-console": "^4.1.0",
+    "purescript-halogen": "^4.0.0",
+    "purescript-web-html": "^1.0.0",
+    "purescript-web-uievents": "^1.0.0",
+    "purescript-profunctor-lenses": "^4.0.0",
+    "purescript-functions": "^4.0.0",
+    "purescript-aff": "^5.0.0",
+    "purescript-newtype": "^3.0.0",
+    "purescript-arraybuffer": "^7.0.0",
+    "purescript-arraybuffer-types": "^2.0.0",
+    "purescript-aff-coroutines": "^7.0.0",
+    "purescript-aff-promise": "^2.0.0"
+  },
+  "devDependencies": {
+    "purescript-psci-support": "^4.0.0"
+
+  }
+}
